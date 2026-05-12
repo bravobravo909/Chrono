@@ -83,7 +83,7 @@ declare namespace Chrono {
 	}
 
 	export interface EntityConfigInput {
-		BUFFER: number;
+		BUFFER?: number;
 		TICK_RATE: number;
 		FULL_ROTATION?: boolean;
 		AUTO_UPDATE_POSITION?: boolean;
