@@ -12,3 +12,6 @@ node_modules/
 DevPackages
 .venv
 site
+
+tsconfig.json
+package-lock.json
