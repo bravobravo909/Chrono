@@ -1,8 +1,8 @@
 
 {
-  "name": "@rbxts/chrono",
-  "version": "2.0.10",
-  "description": "Custom Character Replication",
+	"name": "chrono",
+	"version": "2.0.10",
+	"description": "Custom Character Replication",
 	"repository": "bravobravo909/chrono",
 	"license": "MIT",
 	"author": "bravobravo909",
