@@ -421,7 +421,7 @@ declare namespace Chrono {
 	}
 
 	/** Server-side receiver middleware (Server only) */
-	namespace Receiver {
+	namespace ServerReceiver {
 		/** Registers a middleware function to intercept entity updates */
 		function RegisterMiddleMan(name: string, priority: number, func: MiddleManFn): void;
 
